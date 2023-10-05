@@ -101,6 +101,8 @@ Note: Prompts for a current user password by default
 ```bash
 # useradd –d /home/mydir –s /bin/bash user1
 ```
+<img src="https://elearn.epam.com/assets/courseware/v1/0f860fc356f7ce6508c7c126ae65c580/asset-v1:RD_CIS+DOBCLinux+0422+type@asset+block/useradd.png">
+
 **Delete user**
 
 **userdel** - delete user (requires root access)
