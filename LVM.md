@@ -108,3 +108,10 @@ sudo mkfs.btrfs /dev/vg_newlvm/centos7_newvol
 sudo mkfs.ntfs /dev/vg_newlvm/centos7_newvol
 # formats a logical volume called centos7_newvol into ntfs filesystem.
 ```
+HELP BASH COMMANDS
+```bash
+lsblk
+#Show discs
+sudo nano /etc/fstab
+# add "/path/to/LV /mount/path ext4 defaults 0 1" to ctrate permanebted LV 
+```
